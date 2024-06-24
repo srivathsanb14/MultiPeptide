@@ -1,0 +1,29 @@
+epochs: 100
+batch_size: 20
+vocab_size: 25
+task: nf # hemo, nf 
+debug: false
+
+network:
+  drp: 0.1 
+  proj_dim: 256
+  GNN:
+    input_dim: 11
+    hidden_dim: 2048
+  BERT:
+    hidden_size: 256
+    hidden_layers: 8
+    attn_heads: 8
+    dropout: 0.10
+
+optim:
+  lr: 6.0e-5 
+
+sch:
+  name: lronplateau  
+  factor: 0.4
+  patience: 5
+
+paths:
+  data: data/
+  split: full/
