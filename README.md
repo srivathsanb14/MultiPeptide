@@ -16,12 +16,12 @@ Ensure you have Python and pip installed. Then, install the necessary packages:
 
   `pip install -r requirements.txt`
 
-3. **Download Datasets and Checkpoints:** <Link>
+3. **Download Datasets and Checkpoints:** 
 
-Datasets: Download the datasets from the specified Hugging Face link.
+Datasets: Download the datasets from the specified [Hugging Face link](https://huggingface.co/srivathsanb14/MultiPeptide/).
 Save the datasets under the existing data folder in this repository.
 
-Models/Checkpoints: Download the models/checkpoints from the specified Hugging Face link.
+Models/Checkpoints: Download the models/checkpoints from the specified [Hugging Face link](https://huggingface.co/srivathsanb14/MultiPeptide/).
 Save the models/checkpoints under a new checkpoints folder in this repository.
 
 4. **Run Training or Inference:**
