@@ -1,11 +1,38 @@
-MultiPeptide
+# MultiPeptide
 
-This repository corresponds to the MultiPeptide research paper. 
+Welcome to the MultiPeptide repository! This repository corresponds to the MultiPeptide research paper.
 
-Getting Started
-Clone this repository
-`cd MultiPeptide`
-Install the required packages (`pip install -r requirements.txt`)
-Download the datasets and checkpoints from huggingface <link>
-Save the datasets under the existing `data` folder, and the models under a new `checkpoints` folder
-Run `python main.py` if you wish to train the CLIP process , or run `python inference.py` if you wish to test inference on our trained checkpoints. 
+## Getting Started
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/srivathsanb14/MultiPeptide.git
+   cd MultiPeptide
+
+2. **Install Required Packages:**
+
+Ensure you have Python and pip installed. Then, install the necessary packages:
+
+  ```bash
+  pip install -r requirements.txt
+
+3. **Download Datasets and Checkpoints:** <Link>
+
+Datasets: Download the datasets from the specified Hugging Face link.
+Save the datasets under the existing data folder in this repository.
+
+Models/Checkpoints: Download the models/checkpoints from the specified Hugging Face link.
+Save the models/checkpoints under a new checkpoints folder in this repository.
+
+4. **Run Training or Inference:**
+
+To train the CLIP process, run:
+  ```bash
+  python main.py
+
+To perform inference using the trained checkpoints, run:
+  ```bash
+  python inference.py
+ 
+
