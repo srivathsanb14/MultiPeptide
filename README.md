@@ -14,8 +14,7 @@ Welcome to the MultiPeptide repository! This repository corresponds to the Multi
 
 Ensure you have Python and pip installed. Then, install the necessary packages:
 
-  ```bash
-  pip install -r requirements.txt
+  `pip install -r requirements.txt`
 
 3. **Download Datasets and Checkpoints:** <Link>
 
@@ -28,11 +27,9 @@ Save the models/checkpoints under a new checkpoints folder in this repository.
 4. **Run Training or Inference:**
 
 To train the CLIP process, run:
-  ```bash
-  python main.py
+  `python main.py`
 
 To perform inference using the trained checkpoints, run:
-  ```bash
-  python inference.py
+  `python inference.py`
  
 
