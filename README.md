@@ -1,6 +1,6 @@
 # MultiPeptide
 
-Welcome to the MultiPeptide repository! This repository corresponds to the MultiPeptide research paper.
+Welcome to the MultiPeptide repository! This repository corresponds to the MultiPeptide project.
 
 ## Getting Started
 
