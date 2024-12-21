@@ -1,6 +1,7 @@
 # MultiPeptide
 
-Welcome to the MultiPeptide repository! This repository corresponds to the MultiPeptide project.
+Welcome to the MultiPeptide repository! This repository corresponds to the MultiPeptide project. If you'd like to learn more about the research behind this project, please check out our paper:  
+[Multi-Peptide: Multimodality Leveraged Language-Graph Learning of Peptide Properties](https://pubs.acs.org/doi/10.1021/acs.jcim.4c01443)
 
 ## Getting Started
 
