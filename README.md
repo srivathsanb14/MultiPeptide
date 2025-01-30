@@ -37,8 +37,7 @@ To perform inference using the trained checkpoints, run:
 
 If you use *Multi-Peptide* in your work, please cite the following:
 
----
-
+```bash
 @article{doi:10.1021/acs.jcim.4c01443,
 author = {Badrinarayanan, Srivathsan and Guntuboina, Chakradhar and Mollaei, Parisa and Barati Farimani, Amir},
 title = {Multi-Peptide: Multimodality Leveraged Language-Graph Learning of Peptide Properties},
@@ -56,4 +55,4 @@ eprint = {
         https://doi.org/10.1021/acs.jcim.4c01443
 }
 }
----
+
