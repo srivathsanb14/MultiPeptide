@@ -33,4 +33,27 @@ To train the CLIP process, run:
 To perform inference using the trained checkpoints, run:
   `python inference.py`
  
+## Citation
 
+If you use *Multi-Peptide* in your work, please cite the following:
+
+---
+
+@article{doi:10.1021/acs.jcim.4c01443,
+author = {Badrinarayanan, Srivathsan and Guntuboina, Chakradhar and Mollaei, Parisa and Barati Farimani, Amir},
+title = {Multi-Peptide: Multimodality Leveraged Language-Graph Learning of Peptide Properties},
+journal = {Journal of Chemical Information and Modeling},
+volume = {65},
+number = {1},
+pages = {83-91},
+year = {2025},
+doi = {10.1021/acs.jcim.4c01443},
+    note ={PMID: 39700492},
+URL = { 
+        https://doi.org/10.1021/acs.jcim.4c01443
+},
+eprint = { 
+        https://doi.org/10.1021/acs.jcim.4c01443
+}
+}
+---
